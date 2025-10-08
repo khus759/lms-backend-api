@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "level": "Advanced",
+    "author": "Robert Hook",
+    "title": "Application of AI in UI/UX design",
+    "sessions_completed": "4/20",
+    "description": "Explore advanced applications of AI in UI/UX design. Learn how artificial intelligence is transforming user experiences, from smart interfaces to automated design systems. This course covers practical tools, real-world case studies, and hands-on projects to help you integrate AI into your design workflow."
+  },
+  {
+    "id": 2,
+    "level": "Beginner",
+    "author": "Robert Hook",
+    "title": "Design Thinking From Scratch",
+    "sessions_completed": "12/17",
+    "description": "Unlock the power of innovation with the 'Design Thinking From Scratch' course. Perfect for beginners, this course teaches the fundamentals of design thinking, including empathy, ideation, prototyping, and testing. Gain practical skills through exercises and expert guidance."
+  },
+  {
+    "id": 3,
+    "level": "Intermediate",
+    "author": "Robert Hook",
+    "title": "Figma: Create Better Design System",
+    "sessions_completed": "0/20",
+    "description": "Master Figma and learn to create robust design systems for your projects. This intermediate course covers best practices, reusable components, and collaborative workflows to streamline your design process."
+  },
+  {
+    "id": 4,
+    "level": "Intermediate",
+    "author": "Robert Hook",
+    "title": "Create a Portfolio as a UI/UX Designer",
+    "sessions_completed": "0/20",
+    "description": "Build a professional portfolio to showcase your UI/UX skills. This course guides you through portfolio structure, project presentation, and personal branding to help you stand out in the design industry."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "level": "Intermediate",
+    "author": "Robert Hook",
+    "title": "Figma: Create Better Design System",
+    "sessions_completed": "20/20",
+    "certificate": true
+  },
+  {
+    "id": 2,
+    "level": "Intermediate",
+    "author": "Robert Hook",
+    "title": "Create a Portfolio as a UI/UX Designer",
+    "sessions_completed": "20/20",
+    "certificate": true
+  },
+  {
+    "id": 3,
+    "level": "Advanced",
+    "author": "Robert Hook",
+    "title": "Application of AI in UI/UX design",
+    "sessions_completed": "20/20",
+    "certificate": true
+  },
+  {
+    "id": 4,
+    "level": "Beginner",
+    "author": "Robert Hook",
+    "title": "Design Thinking From Scratch",
+    "sessions_completed": "7/17",
+    "certificate": true
+  },
+  {
+    "id": 5,
+    "level": "Advanced",
+    "author": "Robert Hook",
+    "title": "Application of AI in UI/UX design",
+    "sessions_completed": "20/20",
+    "certificate": true
+  },
+  {
+    "id": 6,
+    "level": "Beginner",
+    "author": "Robert Hook",
+    "title": "Design Thinking",
+    "sessions_completed": "7/17",
+    "certificate": true
+  },
+  {
+    "id": 7,
+    "level": "Intermediate",
+    "author": "Robert Hook",
+    "title": "Figma: Create Better Design System",
+    "sessions_completed": "20/20",
+    "certificate": true
+  },
+  {
+    "id": 8,
+    "level": "Intermediate",
+    "author": "Robert Hook",
+    "title": "Create a Portfolio as a UI/UX Designer",
+    "sessions_completed": "20/20",
+    "certificate": true
+  }
+]

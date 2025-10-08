@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1,
+    "question": "What is the first step in the Design Thinking process?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Prototype", "value": 1 },
+      { "id": 2, "answer": "Empathize", "value": 2 },
+      { "id": 3, "answer": "Test", "value": 3 },
+      { "id": 4, "answer": "Define", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 2,
+    "question": "Which of these is not a programming language?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Python", "value": 1 },
+      { "id": 2, "answer": "JavaScript", "value": 2 },
+      { "id": 3, "answer": "React", "value": 3 },
+      { "id": 4, "answer": "Java", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is a UX design principle?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Complexity", "value": 1 },
+      { "id": 2, "answer": "Consistency", "value": 2 },
+      { "id": 3, "answer": "Ambiguity", "value": 3 },
+      { "id": 4, "answer": "Latency", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 4,
+    "question": "Which HTML tag is used to create a hyperlink?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "<a>", "value": 1 },
+      { "id": 2, "answer": "<h1>", "value": 2 },
+      { "id": 3, "answer": "<div>", "value": 3 },
+      { "id": 4, "answer": "<link>", "value": 4 }
+    ],
+    "correctAnswer": 1,
+    "point": 10
+  },
+  {
+    "id": 5,
+    "question": "Is React a programming language?",
+    "answerSelectionType": "multiple",
+    "interface": "radio",
+    "image": "../../assets/images/courses/react-js.png",
+    "answers": [
+      { "id": 1, "answer": "Yes", "value": 1 },
+      { "id": 2, "answer": "No", "value": 2 }
+    ],
+    "correctAnswer": 2,
+    "point": 20
+  },
+  {
+    "id": 6,
+    "question": "What does CSS stand for?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Colorful Style Sheets", "value": 1 },
+      { "id": 2, "answer": "Cascading Style Sheets", "value": 2 },
+      { "id": 3, "answer": "Computer Style Sheets", "value": 3 },
+      { "id": 4, "answer": "Creative Style Syntax", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 7,
+    "question": "In Design Thinking, what is the purpose of prototyping?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "To generate data", "value": 1 },
+      { "id": 2, "answer": "To define problems", "value": 2 },
+      { "id": 3, "answer": "To test solutions", "value": 3 },
+      { "id": 4, "answer": "To research users", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  },
+  {
+    "id": 8,
+    "question": "Which tool is commonly used for wireframing?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Figma", "value": 1 },
+      { "id": 2, "answer": "Excel", "value": 2 },
+      { "id": 3, "answer": "Photoshop", "value": 3 },
+      { "id": 4, "answer": "Outlook", "value": 4 }
+    ],
+    "correctAnswer": 1,
+    "point": 10
+  },
+  {
+    "id": 9,
+    "question": "What is empathy in the context of Design Thinking?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Thinking logically", "value": 1 },
+      { "id": 2, "answer": "Understanding user needs", "value": 2 },
+      { "id": 3, "answer": "Drawing designs", "value": 3 },
+      { "id": 4, "answer": "Creating code", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 10,
+    "question": "Which one is a JavaScript framework?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Laravel", "value": 1 },
+      { "id": 2, "answer": "Spring", "value": 2 },
+      { "id": 3, "answer": "React", "value": 3 },
+      { "id": 4, "answer": "Django", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  },
+  {
+    "id": 11,
+    "question": "Which of these is part of the Agile methodology?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Waterfall", "value": 1 },
+      { "id": 2, "answer": "Sprint", "value": 2 },
+      { "id": 3, "answer": "Big Bang", "value": 3 },
+      { "id": 4, "answer": "Cascade", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 12,
+    "question": "Which tag is used for the largest heading in HTML?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "<h1>", "value": 1 },
+      { "id": 2, "answer": "<h6>", "value": 2 },
+      { "id": 3, "answer": "<head>", "value": 3 },
+      { "id": 4, "answer": "<title>", "value": 4 }
+    ],
+    "correctAnswer": 1,
+    "point": 10
+  },
+  {
+    "id": 13,
+    "question": "Design Thinking is primarily used for...",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Engineering complex systems", "value": 1 },
+      { "id": 2, "answer": "Creative problem-solving", "value": 2 },
+      { "id": 3, "answer": "Marketing strategies", "value": 3 },
+      { "id": 4, "answer": "Software deployment", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 14,
+    "question": "What does UX stand for?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "User Xperience", "value": 1 },
+      { "id": 2, "answer": "User Experiment", "value": 2 },
+      { "id": 3, "answer": "User Experience", "value": 3 },
+      { "id": 4, "answer": "Unified Experience", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  },
+  {
+    "id": 15,
+    "question": "Which color code is a valid HEX value?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "#123ABC", "value": 1 },
+      { "id": 2, "answer": "rgb(123,255,0)", "value": 2 },
+      { "id": 3, "answer": "blue", "value": 3 },
+      { "id": 4, "answer": "#12Z56G", "value": 4 }
+    ],
+    "correctAnswer": 1,
+    "point": 10
+  },
+  {
+    "id": 16,
+    "question": "What does API stand for?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Application Programming Interface", "value": 1 },
+      { "id": 2, "answer": "Application Protocol Interface", "value": 2 },
+      { "id": 3, "answer": "Applied Programming Integration", "value": 3 },
+      { "id": 4, "answer": "Advanced Program Interface", "value": 4 }
+    ],
+    "correctAnswer": 1,
+    "point": 10
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is used to style HTML?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "JavaScript", "value": 1 },
+      { "id": 2, "answer": "HTML", "value": 2 },
+      { "id": 3, "answer": "CSS", "value": 3 },
+      { "id": 4, "answer": "SQL", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  },
+  {
+    "id": 18,
+    "question": "Which step in Design Thinking focuses on clearly defining the user problem?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Empathize", "value": 1 },
+      { "id": 2, "answer": "Define", "value": 2 },
+      { "id": 3, "answer": "Ideate", "value": 3 },
+      { "id": 4, "answer": "Prototype", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 19,
+    "question": "What is the main language used for developing iOS apps?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Kotlin", "value": 1 },
+      { "id": 2, "answer": "Java", "value": 2 },
+      { "id": 3, "answer": "Swift", "value": 3 },
+      { "id": 4, "answer": "Python", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  },
+  {
+    "id": 20,
+    "question": "Which file type is used for vector graphics?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": ".jpg", "value": 1 },
+      { "id": 2, "answer": ".svg", "value": 2 },
+      { "id": 3, "answer": ".png", "value": 3 },
+      { "id": 4, "answer": ".gif", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is NOT part of the Design Thinking process?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Empathize", "value": 1 },
+      { "id": 2, "answer": "Develop", "value": 2 },
+      { "id": 3, "answer": "Define", "value": 3 },
+      { "id": 4, "answer": "Prototype", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 22,
+    "question": "Which programming concept is used to repeat a block of code?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Variable", "value": 1 },
+      { "id": 2, "answer": "Condition", "value": 2 },
+      { "id": 3, "answer": "Loop", "value": 3 },
+      { "id": 4, "answer": "Function", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  },
+  {
+    "id": 23,
+    "question": "Which of these tools is used for project management?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "Figma", "value": 1 },
+      { "id": 2, "answer": "Jira", "value": 2 },
+      { "id": 3, "answer": "VS Code", "value": 3 },
+      { "id": 4, "answer": "Canva", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 24,
+    "question": "What is the purpose of a wireframe?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "To write backend code", "value": 1 },
+      { "id": 2, "answer": "To create a visual representation of UI layout", "value": 2 },
+      { "id": 3, "answer": "To manage projects", "value": 3 },
+      { "id": 4, "answer": "To test software speed", "value": 4 }
+    ],
+    "correctAnswer": 2,
+    "point": 10
+  },
+  {
+    "id": 25,
+    "question": "Which of the following best defines an MVP (Minimum Viable Product)?",
+    "answerSelectionType": "single",
+    "interface": "radio",
+    "answers": [
+      { "id": 1, "answer": "A complete product with all features", "value": 1 },
+      { "id": 2, "answer": "A prototype with no real functionality", "value": 2 },
+      { "id": 3, "answer": "The simplest version of a product that works", "value": 3 },
+      { "id": 4, "answer": "A product only used for marketing", "value": 4 }
+    ],
+    "correctAnswer": 3,
+    "point": 10
+  }
+]

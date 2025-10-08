@@ -1,0 +1,17 @@
+{
+  "series": [
+    {
+      "name": "Buy course",
+      "data": [25, 30, 15, 20, 10, 15, 20]
+    },
+    {
+      "name": "Completed course",
+      "data": [20, 25, 25, 30, 45, 15, 30]
+    },
+    {
+      "name": "Completed Quiz",
+      "data": [10, 15, 20, 25, 35, 10, 25]
+    }
+  ],
+  "categories": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+}

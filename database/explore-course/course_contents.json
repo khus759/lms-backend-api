@@ -1,0 +1,160 @@
+{
+  "course": {
+    "title": "Design Thinking Masterclass",
+    "total_sessions": "20 sessions",
+    "total_lectures": "400 lectures",
+    "total_duration": "120 hours total length",
+    "sessions": [
+      {
+        "id": 1,
+        "session_title": "Application of AI in UI/UX design",
+        "progress": "2/6",
+        "image_icon": "",
+        "session_sub_title": "Session 1 - Application of AI in UI/UX design",
+        "content": [
+          { "id": 1, "type": "reading", "title": "Read before you start", "duration": "10min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Introduction to Design Thinking", "duration": "25min", "videoUrl": "https://www.youtube.com/embed/Tvu34s8iMZw" },
+          { "id": 3, "type": "video", "title": "Design Thinking From Scratch", "duration": "15min", "videoUrl": "https://www.youtube.com/embed/bMknfKXIFA8" },
+          { "id": 4, "type": "reading", "title": "Major terms from the section", "duration": "5min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Practice analyse", "questions": 5, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 1", "questions": 25, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 2,
+        "session_title": "Design Thinking Implementations",
+        "progress": "5/20",
+        "image_icon": "",
+        "session_sub_title": "Session 2 - Design Thinking Implementations",
+        "content": [
+          { "id": 1, "type": "reading", "title": "Design Thinking in Real Life", "duration": "12min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Implementation Models", "duration": "20min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 3, "type": "video", "title": "Case Study: IDEO", "duration": "18min", "videoUrl": "https://www.youtube.com/embed/bMknfKXIFA8" },
+          { "id": 4, "type": "reading", "title": "Key implementation terms", "duration": "6min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Implementation Practice", "questions": 5, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 2", "questions": 20, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 3,
+        "session_title": "Figma: Create Better Design System For Your Project",
+        "progress": "5/6",
+        "image_icon": "",
+        "session_sub_title": "Session 3 - Create Better Design System For Your Project",
+        "content": [
+          { "id": 1, "type": "reading", "title": "What is Empathy?", "duration": "8min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Empathy Mapping", "duration": "22min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 3, "type": "video", "title": "User Research Techniques", "duration": "18min", "videoUrl": "https://www.youtube.com/embed/O6P86uwfdR0" },
+          { "id": 4, "type": "reading", "title": "Tools for User Research", "duration": "7min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Empathy Check", "questions": 6, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 3", "questions": 15, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 4,
+        "session_title": "Create a Portfolio as a UI/UX Designer",
+        "progress": "6/6",
+        "image_icon": "",
+        "session_sub_title": "Session 4 - Create a Portfolio as a UI/UX Designer",
+        "content": [
+          { "id": 1, "type": "reading", "title": "Understanding Define", "duration": "9min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Creating Problem Statements", "duration": "19min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 3, "type": "video", "title": "How to Analyze Research Data", "duration": "17min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 4, "type": "reading", "title": "Define Techniques", "duration": "6min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Problem Framing", "questions": 5, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 4", "questions": 20, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 5,
+        "session_title": "Figma: Create Better Design System For Your Project",
+        "progress": "6/20",
+        "image_icon": "",
+        "session_sub_title": "Session 5 - Create Better Design System For Your Project",
+        "content": [
+          { "id": 1, "type": "reading", "title": "Ideation Principles", "duration": "10min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Brainstorming Techniques", "duration": "24min", "videoUrl": "https://www.youtube.com/embed/Tvu34s8iMZw" },
+          { "id": 3, "type": "video", "title": "Idea Selection Methods", "duration": "16min", "videoUrl": "https://www.youtube.com/embed/bMknfKXIFA8" },
+          { "id": 4, "type": "reading", "title": "How to Facilitate Ideation", "duration": "7min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Creative Thinking", "questions": 5, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 5", "questions": 20, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 6,
+        "session_title": "Create a Portfolio as a UI/UX Designer",
+        "progress": "0/6",
+        "image_icon": "",
+        "session_sub_title": "Session 6 - Create a Portfolio as a UI/UX Designer",
+        "content": [
+          { "id": 1, "type": "reading", "title": "Prototyping Basics", "duration": "9min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Rapid Prototyping", "duration": "21min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 3, "type": "video", "title": "Tools for Prototyping", "duration": "20min", "videoUrl": "https://www.youtube.com/embed/0ZJgIjIuY7U" },
+          { "id": 4, "type": "reading", "title": "High vs Low Fidelity", "duration": "5min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Prototype Evaluation", "questions": 6, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 6", "questions": 18, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 7,
+        "session_title": "Application of AI in UI/UX design",
+        "progress": "0/6",
+        "image_icon": "",
+        "session_sub_title": "Session 7 - Application of AI in UI/UX design",
+        "content": [
+          { "id": 1, "type": "reading", "title": "What is Testing?", "duration": "10min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Testing with Users", "duration": "22min", "videoUrl": "https://www.youtube.com/embed/O6P86uwfdR0" },
+          { "id": 3, "type": "video", "title": "Feedback Analysis", "duration": "18min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 4, "type": "reading", "title": "Usability Metrics", "duration": "6min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Test Prep", "questions": 5, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 7", "questions": 20, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 8,
+        "session_title": "Design Thinking in Business",
+        "progress": "0/6",
+        "image_icon": "",
+        "session_sub_title": "Session 8 - Design Thinking in Business",
+        "content": [
+          { "id": 1, "type": "reading", "title": "DT in Startups vs Enterprises", "duration": "11min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Strategic Innovation", "duration": "25min", "videoUrl": "https://www.youtube.com/embed/Tvu34s8iMZw" },
+          { "id": 3, "type": "video", "title": "Corporate Case Studies", "duration": "20min", "videoUrl": "https://www.youtube.com/embed/bMknfKXIFA8" },
+          { "id": 4, "type": "reading", "title": "Scaling DT", "duration": "8min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Business Applications", "questions": 6, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 8", "questions": 22, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 9,
+        "session_title": "Tools & Resources",
+        "progress": "0/6",
+        "image_icon": "",
+        "session_sub_title": "Session 9 - Tools & Resources",
+        "content": [
+          { "id": 1, "type": "reading", "title": "Top Design Thinking Tools", "duration": "12min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Miro & Figma Overview", "duration": "19min", "videoUrl": "https://www.youtube.com/embed/O6P86uwfdR0" },
+          { "id": 3, "type": "video", "title": "Collaboration Platforms", "duration": "17min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 4, "type": "reading", "title": "Tool Comparison", "duration": "7min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Tools Knowledge Check", "questions": 5, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Module 9", "questions": 20, "image_icon": "" }
+        ]
+      },
+      {
+        "id": 10,
+        "session_title": "Create a Portfolio as a UI/UX Designer",
+        "progress": "0/6",
+        "image_icon": "",
+        "session_sub_title": "Session 10 - Create a Portfolio as a UI/UX Designer",
+        "content": [
+          { "id": 1, "type": "reading", "title": "Project Brief", "duration": "10min", "image_icon": "" },
+          { "id": 2, "type": "video", "title": "Instructions for Submission", "duration": "15min", "videoUrl": "https://www.youtube.com/embed/w7ejDZ8SWv8" },
+          { "id": 3, "type": "video", "title": "Presentation Tips", "duration": "14min", "videoUrl": "https://www.youtube.com/embed/O6P86uwfdR0" },
+          { "id": 4, "type": "reading", "title": "Rubric & Expectations", "duration": "6min", "image_icon": "" },
+          { "id": 5, "type": "quiz", "title": "Capstone Prep", "questions": 10, "image_icon": "" },
+          { "id": 6, "type": "quiz", "title": "Final Module", "questions": 30, "image_icon": "" }
+        ]
+      }
+    ]
+  }
+}

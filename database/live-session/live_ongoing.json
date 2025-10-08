@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "status": "Live Now",
+    "joined": 41,
+    "host": "Robert Hook",
+    "title": "QnA: Design Thinking From Scratch",
+    "date": "July 20, 2024",
+    "time": "08:00 - 09:00 AM",
+    "image": "../../assets/images/courses/design-thinking-from-scractch.png"
+  },
+  {
+    "id": 2,
+    "status": "Live Soon",
+    "host": "Alisa Holand",
+    "title": "QnA: Application of AI in UI/UX design",
+    "date": "July 20, 2024",
+    "time": "08:00 - 09:00 AM",
+    "image": "../../assets/images/courses/application-ui-ux-design.png"
+  },
+  {
+    "id": 3,
+    "status": "Live Soon",
+    "host": "Robert Hook",
+    "title": "QnA: Design Thinking From Scratch",
+    "date": "July 20, 2024",
+    "time": "08:00 - 09:00 AM",
+    "image": "../../assets/images/courses/design-thinking-from-scractch.png"
+  },
+  {
+    "id": 4,
+    "status": "Live Soon",
+    "host": "Alisa Holand",
+    "title": "QnA: Application of AI in UI/UX design",
+    "date": "July 20, 2024",
+    "time": "08:00 - 09:00 AM",
+    "image": "../../assets/images/courses/application-ui-ux-design.png"
+  }
+]

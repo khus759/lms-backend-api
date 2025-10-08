@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Webflow Tutorial: Build Your First Personal Website",
+    "author": "Robert Hook",
+    "level": "Beginner",
+    "students": 67,
+    "rating": 4.9,
+    "image": "/assets/images/courses/webflow-tutorial.png",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "title": "Figma Tutorial: A Crash Course for Beginners",
+    "author": "Alisa Holand",
+    "level": "Beginner",
+    "students": 41,
+    "rating": 4.1,
+    "image": "/assets/images/courses/figma-tutorial.png",
+    "price": 350
+  },
+  {
+    "id": 3,
+    "title": "Getting Started With Templates For Your Team",
+    "author": "Moris Fernando",
+    "level": "Intermediate",
+    "students": 162,
+    "rating": 5.0,
+    "image": "/assets/images/courses/templetes-for-your-team.png",
+    "price": 250
+  },
+  {
+    "id": 4,
+    "title": "Getting Started: Application of AI in UI/UX design",
+    "author": "Andry Maulana",
+    "level": "Advanced",
+    "students": 162,
+    "rating": 5.0,
+    "image": "/assets/images/courses/ui-ux-design.png",
+    "price": 150
+  }
+]

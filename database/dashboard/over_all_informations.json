@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Total Courses",
+        "value": 24,
+        "subtitle": "Courses",
+        "image": "/assets/images/icons/Icon-base-linear/course-icon.svg",
+        "bgClass": "bg-primary-100"
+    },
+    {
+        "id": "2",
+        "title": "Total Hours",
+        "value": 141,
+        "subtitle": "Hours",
+        "image": "/assets/images/icons/Icon-base-two-color/clock.svg",
+        "bgClass": "bg-warning-100"
+    },
+    {
+        "id": "3",
+        "title": "Average Score",
+        "value": 85,
+        "subtitle": "",
+        "image": "/assets/images/icons/Icon-base-two-color/score.svg",
+        "bgClass": "bg-danger-100"
+    }
+]

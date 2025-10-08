@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Design Thinking From Scratch",
+        "sessions_completed": "4/20",
+        "additional_participants": 32,
+        "image": "/assets/courses/my-courses/my-courses-design.svg",
+        "avatars": [
+            "/assets/avatar/martin-morgan.svg",
+            "/assets/avatar/edgard.svg",
+            "/assets/avatar/stephia.svg",
+            "/assets/avatar/laura-linn.svg",
+            "/assets/avatar/josephin.svg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Application of AI in UI/UX design",
+        "sessions_completed": "12/17",
+        "additional_participants": 41,
+        "image": "/assets/courses/my-courses/my-courses-figma.svg",
+        "avatars": [
+            "/assets/avatar/martin-morgan.svg",
+            "/assets/avatar/edgard.svg",
+            "/assets/avatar/stephia.svg",
+            "/assets/avatar/laura-linn.svg",
+            "/assets/avatar/josephin.svg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Figma: Create Better Design System For Your Project",
+        "sessions_completed": "21/21",
+        "additional_participants": 86,
+        "image": "/assets/courses/my-courses/my-courses-portfolio.svg",
+        "avatars": [
+            "/assets/avatar/martin-morgan.svg",
+            "/assets/avatar/edgard.svg",
+            "/assets/avatar/stephia.svg",
+            "/assets/avatar/laura-linn.svg",
+            "/assets/avatar/josephin.svg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Create a Portfolio as a UI/UX Designer",
+        "sessions_completed": "21/21",
+        "additional_participants": 42,
+        "image": "/assets/courses/my-courses/my-courses-ui-ux.svg",
+        "avatars": [
+            "/assets/avatar/martin-morgan.svg",
+            "/assets/avatar/edgard.svg",
+            "/assets/avatar/stephia.svg",
+            "/assets/avatar/laura-linn.svg",
+            "/assets/avatar/josephin.svg"
+        ]
+    }
+]
