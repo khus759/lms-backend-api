@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Albert",
+    "name": "Moris Fernando",
     "status": "Online",
     "lastMessage": "Lorem ipsum dolor sit amet, c...",
     "time": "Just now",
@@ -9,21 +9,21 @@
     "messages": [
       {
         "id": 1,
-        "sender": "Albert",
+        "sender": "Moris Fernando",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "20 min ago",
         "type": "received"
       },
       {
         "id": 2,
-        "sender": "Albert",
+        "sender": "Moris Fernando",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "10 min ago",
         "type": "received"
       },
       {
         "id": 3,
-        "sender": "Albert",
+        "sender": "Moris Fernando",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "1 min ago",
         "type": "received"
@@ -33,7 +33,7 @@
   },
   {
     "id": 2,
-    "name": "Josephin",
+    "name": "Andry Maulana",
     "status": "Offline",
     "lastMessage": "Lorem ipsum dolor sit amet, c...",
     "time": "12 mins ago",
@@ -41,14 +41,14 @@
     "messages": [
       {
         "id": 1,
-        "sender": "Josephin",
+        "sender": "Andry Maulana",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "10 min ago",
         "type": "received"
       },
       {
         "id": 2,
-        "sender": "Josephin",
+        "sender": "Andry Maulana",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "12 min ago",
         "type": "received"
@@ -58,7 +58,7 @@
   },
   {
     "id": 3,
-    "name": "Steve Anderson",
+    "name": "Michelle Nguyen",
     "status": "Online",
     "lastMessage": "Lorem ipsum dolor sit amet, c...",
     "time": "2 hr ago",
@@ -66,14 +66,14 @@
     "messages": [
       {
         "id": 1,
-        "sender": "Steve",
+        "sender": "Michelle Nguyen",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "3 hr ago",
         "type": "received"
       },
       {
         "id": 2,
-        "sender": "Steve",
+        "sender": "Michelle Nguyen",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "2 hr ago",
         "type": "received"
@@ -83,7 +83,7 @@
   },
   {
     "id": 4,
-    "name": "Edgard",
+    "name": "Josh Armstrong",
     "status": "Offline",
     "lastMessage": "Lorem ipsum dolor sit amet, c...",
     "time": "12 hr ago",
@@ -91,7 +91,7 @@
     "messages": [
       {
         "id": 1,
-        "sender": "Edgard",
+        "sender": "Josh Armstrong",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "12 hr ago",
         "type": "received"
@@ -101,7 +101,7 @@
   },
   {
     "id": 5,
-    "name": "Martin Morgan",
+    "name": "Alisa Holand",
     "status": "Offline",
     "lastMessage": "Lorem ipsum dolor sit amet, c...",
     "time": "12 hr ago",
@@ -109,14 +109,14 @@
     "messages": [
       {
         "id": 1,
-        "sender": "Martin",
+        "sender": "Alisa Holand",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "6:00 PM",
         "type": "received"
       },
       {
         "id": 2,
-        "sender": "Martin",
+        "sender": "Alisa Holand",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "time": "6:05 PM",
         "type": "received"
@@ -126,7 +126,7 @@
   },
   {
     "id": 6,
-    "name": "Stephia",
+    "name": "Morgan Azalqy",
     "status": "Offline",
     "lastMessage": "Lorem ipsum dolor sit amet, c...",
     "time": "7/25/2024",
@@ -134,14 +134,14 @@
     "messages": [
       {
         "id": 1,
-        "sender": "Stephia",
+        "sender": "Morgan Azalqy",
         "text": "Happy Birthday! 🥳",
         "time": "11:00 AM",
         "type": "received"
       },
       {
         "id": 2,
-        "sender": "Stephia",
+        "sender": "Morgan Azalqy",
         "text": "Thank you so much!",
         "time": "11:15 AM",
         "type": "received"
@@ -151,7 +151,7 @@
   },
   {
     "id": 7,
-    "name": "Laura Linn",
+    "name": "Harace Mann",
     "status": "Online",
     "lastMessage": "Lorem ipsum dolor sit amet, c...",
     "time": "7/25/2024",
@@ -159,14 +159,14 @@
     "messages": [
       {
         "id": 1,
-        "sender": "Laura",
+        "sender": "Harace Mann",
         "text": "Are we still on for dinner?",
         "time": "3:00 PM",
         "type": "received"
       },
       {
         "id": 2,
-        "sender": "Laura",
+        "sender": "Harace Mann",
         "text": "Yes, see you at 8.",
         "time": "3:10 PM",
         "type": "received"

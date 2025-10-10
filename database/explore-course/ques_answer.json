@@ -60,7 +60,7 @@
     "question": "Is React a programming language?",
     "answerSelectionType": "multiple",
     "interface": "radio",
-    "image": "../../assets/images/courses/react-js.png",
+    "image": "../../assets/courses/react-js.png",
     "answers": [
       { "id": 1, "answer": "Yes", "value": 1 },
       { "id": 2, "answer": "No", "value": 2 }
