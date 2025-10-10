@@ -29,7 +29,7 @@
         "type": "received"
       }
     ],
-    "image": "/assets/images/avatar/albert.svg"
+    "image": "/assets/avatar/albert.svg"
   },
   {
     "id": 2,
@@ -54,7 +54,7 @@
         "type": "received"
       }
     ],
-    "image": "/assets/images/avatar/Josephin.svg"
+    "image": "/assets/avatar/Josephin.svg"
   },
   {
     "id": 3,
@@ -79,7 +79,7 @@
         "type": "received"
       }
     ],
-    "image": "/assets/images/avatar/stevan-anderson.svg"
+    "image": "/assets/avatar/stevan-anderson.svg"
   },
   {
     "id": 4,
@@ -97,7 +97,7 @@
         "type": "received"
       }
     ],
-    "image": "/assets/images/avatar/edgard.svg"
+    "image": "/assets/avatar/edgard.svg"
   },
   {
     "id": 5,
@@ -122,7 +122,7 @@
         "type": "received"
       }
     ],
-    "image": "/assets/images/avatar/martin-morgan.svg"
+    "image": "/assets/avatar/martin-morgan.svg"
   },
   {
     "id": 6,
@@ -147,7 +147,7 @@
         "type": "received"
       }
     ],
-    "image": "/assets/images/avatar/stephia.svg"
+    "image": "/assets/avatar/stephia.svg"
   },
   {
     "id": 7,
@@ -172,6 +172,6 @@
         "type": "received"
       }
     ],
-    "image": "/assets/images/avatar/laura-linn.svg"
+    "image": "/assets/avatar/laura-linn.svg"
   }
 ]

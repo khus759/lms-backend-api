@@ -6,7 +6,7 @@
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
     "status": "Live Ended",
-    "image": "../../assets/images/courses/design-thinking-from-scractch.png"
+    "image": "../../assets/courses/design-thinking-from-scractch.png"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
     "status": "Live Ended",
-    "image": "../../assets/images/courses/application-ui-ux-design.png"
+    "image": "../../assets/courses/application-ui-ux-design.png"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
     "status": "Live Ended",
-    "image": "../../assets/images/courses/design-thinking-from-scractch.png"
+    "image": "../../assets/courses/design-thinking-from-scractch.png"
   },
   {
     "id": 4,
@@ -33,6 +33,6 @@
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
     "status": "Live Ended",
-    "image": "../../assets/images/courses/application-ui-ux-design.png"
+    "image": "../../assets/courses/application-ui-ux-design.png"
   }
 ]

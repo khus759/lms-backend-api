@@ -7,7 +7,7 @@
     "title": "QnA: Design Thinking From Scratch",
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
-    "image": "../../assets/images/courses/design-thinking-from-scractch.png"
+    "image": "../../assets/courses/design-thinking-from-scractch.png"
   },
   {
     "id": 2,
@@ -16,7 +16,7 @@
     "title": "QnA: Application of AI in UI/UX design",
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
-    "image": "../../assets/images/courses/application-ui-ux-design.png"
+    "image": "../../assets/courses/application-ui-ux-design.png"
   },
   {
     "id": 3,
@@ -25,7 +25,7 @@
     "title": "QnA: Design Thinking From Scratch",
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
-    "image": "../../assets/images/courses/design-thinking-from-scractch.png"
+    "image": "../../assets/courses/design-thinking-from-scractch.png"
   },
   {
     "id": 4,
@@ -34,6 +34,6 @@
     "title": "QnA: Application of AI in UI/UX design",
     "date": "July 20, 2024",
     "time": "08:00 - 09:00 AM",
-    "image": "../../assets/images/courses/application-ui-ux-design.png"
+    "image": "../../assets/courses/application-ui-ux-design.png"
   }
 ]

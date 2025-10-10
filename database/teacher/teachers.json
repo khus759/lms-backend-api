@@ -12,9 +12,9 @@
       "price": 30,
       "original_price": 35,
       "experience_years": 10,
-      "image": "assets/images/teachers/moris-fernando.png",
+      "image": "assets/teachers/moris-fernando.png",
       "videoId": "zpnHsWOy0RY",
-      "thumbnail": "assets/images/courses/api.png",
+      "thumbnail": "assets/courses/api.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -29,9 +29,9 @@
       "price": 50,
       "original_price": 65,
       "experience_years": 6,
-      "image": "assets/images/teachers/andry-maulana.png",
+      "image": "assets/teachers/andry-maulana.png",
       "videoId": "zpnHsWOy0RY",
-      "thumbnail": "assets/images/courses/react-js.png",
+      "thumbnail": "assets/courses/react-js.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -46,9 +46,9 @@
       "price": 30,
       "original_price": 35,
       "experience_years": 7,
-      "image": "assets/images/teachers/michelle-nguyen.png",
+      "image": "assets/teachers/michelle-nguyen.png",
       "videoId": "zOjov-2OZ0E",
-      "thumbnail": "assets/images/courses/sql.png",
+      "thumbnail": "assets/courses/sql.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -63,9 +63,9 @@
       "price": 50,
       "original_price": 65,
       "experience_years": 8,
-      "image": "assets/images/teachers/josh-amstrong.png",
+      "image": "assets/teachers/josh-amstrong.png",
       "videoId": "55NvZjUZIO8",
-      "thumbnail": "assets/images/courses/application-ui-ux-design.png",
+      "thumbnail": "assets/courses/application-ui-ux-design.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
   ],
@@ -82,9 +82,9 @@
       "price": 28,
       "original_price": 33,
       "experience_years": 9,
-      "image": "assets/images/teachers/alisa-holand.png",
+      "image": "assets/teachers/alisa-holand.png",
       "videoId": "RNmbN-r84ms",
-      "thumbnail": "assets/images/courses/java.png",
+      "thumbnail": "assets/courses/java.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -99,9 +99,9 @@
       "price": 45,
       "original_price": 60,
       "experience_years": 10,
-      "image": "assets/images/teachers/morgan-azalqy.jpg",
+      "image": "assets/teachers/morgan-azalqy.jpg",
       "videoId": "Cx2dkpBxst8",
-      "thumbnail": "assets/images/courses/mongoDB.png",
+      "thumbnail": "assets/courses/mongoDB.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -116,9 +116,9 @@
       "price": 25,
       "original_price": 30,
       "experience_years": 6,
-      "image": "assets/images/teachers/harace-mann.png",
+      "image": "assets/teachers/harace-mann.png",
       "videoId": "55NvZjUZIO8",
-      "thumbnail": "assets/images/courses/sql.png",
+      "thumbnail": "assets/courses/sql.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -133,9 +133,9 @@
       "price": 40,
       "original_price": 50,
       "experience_years": 4,
-      "image": "assets/images/teachers/anne-sullivan.png",
+      "image": "assets/teachers/anne-sullivan.png",
       "videoId": "55NvZjUZIO8",
-      "thumbnail": "assets/images/courses/java.png",
+      "thumbnail": "assets/courses/java.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
   ],
@@ -152,9 +152,9 @@
       "price": 60,
       "original_price": 75,
       "experience_years": 10,
-      "image": "assets/images/teachers/faiz-mahammad.png",
+      "image": "assets/teachers/faiz-mahammad.png",
       "videoId": "zOjov-2OZ0E",
-      "thumbnail": "assets/images/courses/application-ui-ux-design.png",
+      "thumbnail": "assets/courses/application-ui-ux-design.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -169,9 +169,9 @@
       "price": 55,
       "original_price": 70,
       "experience_years": 12,
-      "image": "assets/images/teachers/jack.png",
+      "image": "assets/teachers/jack.png",
       "videoId": "zOjov-2OZ0E",
-      "thumbnail": "assets/images/courses/sql.png",
+      "thumbnail": "assets/courses/sql.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -186,9 +186,9 @@
       "price": 50,
       "original_price": 65,
       "experience_years": 10,
-      "image": "assets/images/teachers/helen-keller.png",
+      "image": "assets/teachers/helen-keller.png",
       "videoId": "zOjov-2OZ0E",
-      "thumbnail": "assets/images/courses/application-ui-ux-design.png",
+      "thumbnail": "assets/courses/application-ui-ux-design.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -203,9 +203,9 @@
       "price": 65,
       "original_price": 80,
       "experience_years": 11,
-      "image": "assets/images/teachers/moris-fernando.png",
+      "image": "assets/teachers/moris-fernando.png",
       "videoId": "zOjov-2OZ0E",
-      "thumbnail": "assets/images/courses/sql.png",
+      "thumbnail": "assets/courses/sql.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
   ],
@@ -222,9 +222,9 @@
       "price": 55,
       "original_price": 70,
       "experience_years": 4,
-      "image": "assets/images/teachers/andry-maulana.png",
+      "image": "assets/teachers/andry-maulana.png",
       "videoId": "nnBMsGrwuUE",
-      "thumbnail": "assets/images/courses/java.png",
+      "thumbnail": "assets/courses/java.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -239,9 +239,9 @@
       "price": 65,
       "original_price": 80,
       "experience_years": 6,
-      "image": "assets/images/teachers/michelle-nguyen.png",
+      "image": "assets/teachers/michelle-nguyen.png",
       "videoId": "nnBMsGrwuUE",
-      "thumbnail": "assets/images/courses/sql.png",
+      "thumbnail": "assets/courses/sql.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -256,9 +256,9 @@
       "price": 50,
       "original_price": 65,
       "experience_years": 8,
-      "image": "assets/images/teachers/morgan-azalqy.jpg",
+      "image": "assets/teachers/morgan-azalqy.jpg",
       "videoId": "zpnHsWOy0RY",
-      "thumbnail": "assets/images/courses/next-js.png",
+      "thumbnail": "assets/courses/next-js.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
@@ -273,9 +273,9 @@
       "price": 58,
       "original_price": 72,
       "experience_years": 9,
-      "image": "assets/images/teachers/josh-amstrong.png",
+      "image": "assets/teachers/josh-amstrong.png",
       "videoId": "zpnHsWOy0RY",
-      "thumbnail": "assets/images/courses/application-ui-ux-design.png",
+      "thumbnail": "assets/courses/application-ui-ux-design.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     }
   ]

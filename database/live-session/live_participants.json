@@ -1,14 +1,14 @@
 [
-  { "id": 1, "image": "/assets/images/avatar/albert.svg", "name": "Andrew Johnson", "role": "Student", "you": true },
-  { "id": 2, "image": "/assets/images/avatar/andrew-johnson.svg", "name": "Albert", "role": "Student" },
-  { "id": 3, "image": "/assets/images/avatar/edgard.svg", "name": "Josephin", "role": "Student" },
-  { "id": 4, "image": "/assets/images/avatar/josephin.svg", "name": "Steve Anderson", "role": "Student" },
-  { "id": 5, "image": "/assets/images/avatar/laura-linn.svg", "name": "Edgard", "role": "Student" },
-  { "id": 6, "image": "/assets/images/avatar/martin-morgan.svg", "name": "Martin Morgan", "role": "Student" },
-  { "id": 7, "image": "/assets/images/avatar/albert.svg", "name": "Josephin", "role": "Student" },
-  { "id": 8, "image": "/assets/images/avatar/andrew-johnson.svg", "name": "Albert", "role": "Student" },
-  { "id": 9, "image": "/assets/images/avatar/edgard.svg", "name": "Laura Linn", "role": "Student" },
-  { "id": 10, "image": "/assets/images/avatar/josephin.svg", "name": "Edgard", "role": "Student" },
-  { "id": 11, "image": "/assets/images/avatar/laura-linn.svg", "name": "Steve Anderson", "role": "Student" },
-  { "id": 12, "image": "/assets/images/avatar/martin-morgan.svg", "name": "Martin Morgan", "role": "Student" }
+  { "id": 1, "image": "/assets/avatar/albert.svg", "name": "Andrew Johnson", "role": "Student", "you": true },
+  { "id": 2, "image": "/assets/avatar/andrew-johnson.svg", "name": "Albert", "role": "Student" },
+  { "id": 3, "image": "/assets/avatar/edgard.svg", "name": "Josephin", "role": "Student" },
+  { "id": 4, "image": "/assets/avatar/josephin.svg", "name": "Steve Anderson", "role": "Student" },
+  { "id": 5, "image": "/assets/avatar/laura-linn.svg", "name": "Edgard", "role": "Student" },
+  { "id": 6, "image": "/assets/avatar/martin-morgan.svg", "name": "Martin Morgan", "role": "Student" },
+  { "id": 7, "image": "/assets/avatar/albert.svg", "name": "Josephin", "role": "Student" },
+  { "id": 8, "image": "/assets/avatar/andrew-johnson.svg", "name": "Albert", "role": "Student" },
+  { "id": 9, "image": "/assets/avatar/edgard.svg", "name": "Laura Linn", "role": "Student" },
+  { "id": 10, "image": "/assets/avatar/josephin.svg", "name": "Edgard", "role": "Student" },
+  { "id": 11, "image": "/assets/avatar/laura-linn.svg", "name": "Steve Anderson", "role": "Student" },
+  { "id": 12, "image": "/assets/avatar/martin-morgan.svg", "name": "Martin Morgan", "role": "Student" }
 ]
